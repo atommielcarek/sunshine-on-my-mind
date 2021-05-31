@@ -30,7 +30,8 @@ User may input any accpeted City, and State in the search area and then receive 
 ```
 ## Live Application Link and Screenshot
 
-```
 https://atommielcarek.github.io/sunshine-on-my-mind/
-[image](https://user-images.githubusercontent.com/81640301/120142949-76f8ae00-c19c-11eb-8c2d-d96da1caac19.png)
-```
+
+![image](https://user-images.githubusercontent.com/81640301/120143041-a27b9880-c19c-11eb-8351-05874db29a72.png)
+
+
