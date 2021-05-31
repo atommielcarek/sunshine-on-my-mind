@@ -32,6 +32,5 @@ User may input any accpeted City, and State in the search area and then receive 
 
 ```
 https://atommielcarek.github.io/sunshine-on-my-mind/
-
-![image](https://user-images.githubusercontent.com/81640301/120142875-503a7780-c19c-11eb-9296-4ff03c811083.png)
+[image](https://user-images.githubusercontent.com/81640301/120142949-76f8ae00-c19c-11eb-8c2d-d96da1caac19.png)
 ```
